@@ -100,3 +100,9 @@ C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extension
 C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.dll
 C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.pdb
 C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.xml
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
