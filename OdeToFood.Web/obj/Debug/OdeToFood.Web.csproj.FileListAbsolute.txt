@@ -106,3 +106,6 @@ C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
 C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
 C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
 C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
+C:\mnt\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
