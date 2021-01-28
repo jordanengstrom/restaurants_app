@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OdeToFood.Data",
-    "\\OdeToFood.Data\\Models\\Services",
-    "\\OdeToFood.Web",
+    "\\OdeToFood.Data\\Models",
+    "\\OdeToFood.Web\\Api",
     "\\OdeToFood.Web\\Controllers",
     "\\OdeToFood.Web\\Properties",
     "\\OdeToFood.Web\\Views"
   ],
-  "SelectedNode": "\\packages",
+  "SelectedNode": "\\OdeToFood.sln",
   "PreviewInSolutionExplorer": false
 }
