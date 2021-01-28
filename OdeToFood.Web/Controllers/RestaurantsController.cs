@@ -45,8 +45,6 @@ namespace OdeToFood.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Restaurant restaurant)
         {
-            
-
             if(ModelState.IsValid)
             {
                 db.Add(restaurant);
@@ -74,6 +72,7 @@ namespace OdeToFood.Web.Controllers
             if(ModelState.IsValid)
             {
                 db.Update(restaurant);
+                TempData["Message"] = "You have saved the restaurant!";
                 return RedirectToAction("Details", new { id = restaurant.Id });
             }
             return View(restaurant);
